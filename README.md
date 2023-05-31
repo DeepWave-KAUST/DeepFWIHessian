@@ -6,8 +6,8 @@ Reproducible material for **A deep learning-based inverse Hessian for Full Wavef
 ## Project structure
 This repository is organized as follows:
 
-* :open_file_folder: **pinnslope**: python library containing routines for "PINNslope" seismic data interpolation and local slope estimation with physics informed neural networks;
-* :open_file_folder: **data**: folder containing input data and results;
+* :open_file_folder: **deepinvhessian**: python library containing routines for "DeepFWIInvHessian" Full Waveform Inversion Inverse Hessian with Deep Learning;
+* :open_file_folder: **data**: folder containing input data;
 * :open_file_folder: **notebooks**: set of jupyter notebooks reproducing the experiments in the paper (see below for more details);
 * :open_file_folder: **asset**: folder containing logo;
 
@@ -43,6 +43,6 @@ pip install -e .
 
 
 
-**Disclaimer:** All experiments have been carried on a Intel(R) Xeon(R) CPU @ 2.10GHz equipped with a single NVIDIA GEForce RTX 3090 GPU. Different environment 
+**Disclaimer:** All experiments have been carried on a Intel(R) Xeon(R) CPU @ 3.90GHz equipped with a single NVIDIA GEForce RTX 3090 GPU. Different environment 
 configurations may be required for different combinations of workstation and GPU.
 
