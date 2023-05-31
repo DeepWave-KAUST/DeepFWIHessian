@@ -1,6 +1,7 @@
 ![LOGO](asset/logo.png)
 
-Reproducible material for **A deep learning-based inverse Hessian for Full Waveform Inversion - Alfarhan M., Ravasi M., Alkhalifah  T.**
+Reproducible material for **A deep learning-based inverse Hessian for Full Waveform Inversion** <br> 
+Alfarhan M., Ravasi M., Alkhalifah  T.
 
 
 ## Project structure
@@ -46,3 +47,5 @@ pip install -e .
 **Disclaimer:** All experiments have been carried on a Intel(R) Xeon(R) CPU @ 3.90GHz equipped with a single NVIDIA GEForce RTX 3090 GPU. Different environment 
 configurations may be required for different combinations of workstation and GPU.
 
+## Cite Us
+DW0021 - A deep learning-based inverse Hessian for Full Waveform Inversion, 2023.
