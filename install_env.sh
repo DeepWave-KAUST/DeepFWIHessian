@@ -9,7 +9,7 @@ echo 'Creating deepinvhessian environment'
 
 # create conda env
 conda env create -f environment.yml
-source ~/anaconda3/etc/profile.d/conda.sh
+source $CONDA_PREFIX/etc/profile.d/conda.sh
 conda activate deepinvhessian
 conda env list
 echo 'Created and activated environment:' $(which python)
