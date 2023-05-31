@@ -5,7 +5,7 @@
 # Run: ./install_env.sh
 # 
 
-echo 'Creating Package environment'
+echo 'Creating deepinvhessian environment'
 
 # create conda env
 conda env create -f environment.yml
