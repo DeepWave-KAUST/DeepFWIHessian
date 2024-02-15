@@ -20,7 +20,17 @@ The following notebooks are provided:
 - :orange_book: ``Run_FWI_Born.ipynb`` : notebook estimating the inverse Hessian with the migration/demigration approach.
 - :orange_book: ``Run_FWI_PSF.ipynb`` : notebook estimating the inverse Hessian with the PSFs approach.
 - :orange_book: ``FWI-LBFGS-Scipy.ipynb`` : notebook performing FWI with L-BFGS algorithm from the Scipy implementation..
-- :orange_book: ``PlottingNotebook.ipynb`` : notebook reproducing the figures in the paper.  
+- :orange_book: ``PlottingNotebook.ipynb`` : notebook reproducing the figures in the paper.
+- :orange_book: ``Marmousi_exp.ipynb`` : notebook performing FWI with the Barzilai-Borwein method and the proposed approach on Marmousi.
+- :orange_book: ``Marmousi_LBFGS.ipynb`` : notebook performing FWI with L-BFGS on Marmousi.
+- :orange_book: ``Marmousi_create_figures.ipynb`` : notebook to visualize the results of the Marmousi experiments.
+- :orange_book: ``Volve_synthetic_exp.ipynb`` : notebook performing FWI with the Barzilai-Borwein method and the proposed approach on Volve synthetic.
+- :orange_book: ``Volve_synthetic_LBFGS.ipynb`` : notebook performing FWI with L-BFGS on Volve synthetic.
+- :orange_book: ``Volve_synthetic_create_figures.ipynb`` : notebook to visualize the results of the Volve synthetic experiments.
+- :orange_book: ``Volve_exp.ipynb`` : notebook performing FWI with the Barzilai-Borwein method and the proposed approach on Volve.
+- :orange_book: ``Volve_LBFGS.ipynb`` : notebook performing FWI with L-BFGS on Volve.
+- :orange_book: ``Volve_imaging.ipynb`` : notebook to compute RTM images and extended images for Volve.
+- :orange_book: ``Volve_create_figures.ipynb`` : notebook to visualize the results of the Volve experiments.
 
 ## Getting started
 To ensure reproducibility of the results, we suggest using the `environment.yml` file when creating an environment.
