@@ -1,25 +1,24 @@
 name: deepinvhessian
 channels:
-  - nvidia/label/cuda-11.7.1
-  - pytorch
-  - conda-forge
   - defaults
+  - conda-forge
+  - pytorch
 dependencies:
   - cuda
-  - numpy>=1.23.5
-  - matplotlib==3.5.1
-  - scipy==1.9.3
-  - python
+  - cudatoolkit=12.3
+  - jupyter
+  - matplotlib
+  - numpy
+  - opencv
   - pip
   - pylops
-  - pytorch==1.13.1
-  - torchvision==0.14.1  
-  - pytorch-cuda=11.7
-  - jupyter
+  - python
+  - pytorch
+  - scikit-image
+  - scipy
+  - torchvision 
   - pip:
+    - deepwave
     - notebook
-    - tqdm
     - setuptools_scm
-    - torchsummary
-    - deepwave==0.0.9
-
+    - tqdm
