@@ -1,7 +1,7 @@
 ![LOGO](asset/logo.png)
 
 Reproducible material for **A deep learning-based inverse Hessian for Full Waveform Inversion** <br> 
-Alfarhan M., Ravasi M., Alkhalifah  T.
+Alfarhan M., Ravasi M., Chen F., Alkhalifah  T.
 
 [Click here](https://kaust.sharepoint.com/:f:/r/sites/M365_Deepwave_Documents/Shared%20Documents/Restricted%20Area/DW0021?csf=1&web=1&e=s7llFZ) to access the Project Report. Authentication to the _Restricted Area_ filespace is required.
 
