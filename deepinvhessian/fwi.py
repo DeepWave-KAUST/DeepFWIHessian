@@ -6,8 +6,8 @@ from scipy.ndimage import gaussian_filter
 from scipy import signal
 from tqdm.notebook import tqdm
 from typing import Callable, Optional
-from utilities import *
-from filters import lowpass_filter
+from deepinvhessian.utilities import *
+from deepinvhessian.filters import lowpass_filter
 
 
 class FWIParams:

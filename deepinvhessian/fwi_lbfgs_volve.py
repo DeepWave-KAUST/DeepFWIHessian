@@ -2,8 +2,8 @@ import torch
 import numpy as np
 import matplotlib.pyplot as plt
 import deepwave
-from utilities import cosine_taper
-from filters import apply_1d_gaussian_filter
+from deepinvhessian.utilities import cosine_taper
+from deepinvhessian.filters import apply_1d_gaussian_filter
 import torch.nn as nn
 from typing import Tuple, Optional
 

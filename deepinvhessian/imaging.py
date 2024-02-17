@@ -2,7 +2,7 @@ import gc
 import numpy as np
 from typing import List
 import torch
-import scalar_adcig
+import deepinvhessian.scalar_adcig
 from pylops.signalprocessing.chirpradon2d import ChirpRadon2D
 
 # def compute_rtm_image(model, data, dx, dt, source_amplitudes, s_cor, r_cor, device):
