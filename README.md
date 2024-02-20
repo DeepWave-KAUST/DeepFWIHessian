@@ -14,7 +14,7 @@ This repository is organized as follows:
 * :open_file_folder: **asset**: folder containing logo;
 
 ## Supplementary files
-Before running the notebooks below, please download the data from [here](https://kaust.sharepoint.com/:f:/r/sites/M365_Deepwave_Documents/Shared%20Documents/Restricted%20Area/DW0021?csf=1&web=1&e=s7llFZ). Then, put all the contents into the /data folder.
+Before running the notebooks below, please download the data from [here](https://kaust.sharepoint.com/:f:/r/sites/M365_Deepwave_Documents/Shared%20Documents/Restricted%20Area/DW0021/data?csf=1&web=1&e=Ldkb58). Then, put all the contents into the /data folder.
 
 ## Notebooks
 The following notebooks are provided:
