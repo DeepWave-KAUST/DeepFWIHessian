@@ -1,6 +1,7 @@
 ![LOGO](asset/logo.png)
 
-Reproducible material for **A deep learning-based inverse Hessian for Full Waveform Inversion** <br> 
+Reproducible material for **Robust Full Waveform Inversion with deep Hessian
+deblurring** <br> 
 Alfarhan M., Ravasi M., Chen F., Alkhalifah  T.
 
 [Click here](https://kaust.sharepoint.com/:f:/r/sites/M365_Deepwave_Documents/Shared%20Documents/Restricted%20Area/REPORTS/DW0021?csf=1&web=1&e=YwN5P2) to access the Project Report. Authentication to the _Restricted Area_ filespace is required.
@@ -14,7 +15,7 @@ This repository is organized as follows:
 * :open_file_folder: **asset**: folder containing logo;
 
 ## Supplementary files
-Before running the notebooks below, please download the data from [here](https://kaust.sharepoint.com/:f:/r/sites/M365_Deepwave_Documents/Shared%20Documents/Restricted%20Area/DW0021/data?csf=1&web=1&e=Ldkb58). Then, put all the contents into the /data folder.
+The data supporting the findings of this work are available from the corresponding author upon reasonable request.
 
 ## Notebooks
 The following notebooks are provided:
@@ -62,4 +63,12 @@ pip install -e .
 configurations may be required for different combinations of workstation and GPU.
 
 ## Cite Us
-DW0021 - A deep learning-based inverse Hessian for Full Waveform Inversion, 2023.
+@misc{alfarhan2024robustwaveforminversiondeep,
+      title={Robust Full Waveform Inversion with deep Hessian deblurring}, 
+      author={Mustafa Alfarhan and Matteo Ravasi and Fuqiang Chen and Tariq Alkhalifah},
+      year={2024},
+      eprint={2403.17518},
+      archivePrefix={arXiv},
+      primaryClass={physics.geo-ph},
+      url={https://arxiv.org/abs/2403.17518}, 
+}
